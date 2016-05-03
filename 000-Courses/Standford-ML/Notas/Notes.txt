@@ -1,0 +1,39 @@
+
+
+ML Aplicações
+
+- Database mining (e.g. web click data, medical records, engineering)
+- Very difficult logic (e.g. NPL, handwriting recognition)
+- Self-customizing programs (e.g. Amazon product recommendations)
+
+Def:
+
+Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
+
+
+========================================================================
+
+Types
+
+(1) Supervised Learning (regression problems)
+
+	— Right answers given
+	- Regression Problems     —> continuos output 
+	- Classification Problems —> discrete outpus 
+
+
+(2) Unsupervised Learning
+	
+	- No right answers are giver
+	- Automatic clusterization (e.g. market segmentation, social network analysis)
+
+
+
+========================================================================
+
+Algorithms
+
+(1) Model Representation
+
+
+(2) Cost Fucntion
